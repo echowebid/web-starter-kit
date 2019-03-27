@@ -1,0 +1,10 @@
+node_modules
+
+package-lock.json
+
+assets/*
+
+app/styles/*
+app/scripts/*
+app/images/*
+app/**/*.html

@@ -1,0 +1,6 @@
+{
+    "presets": [],
+    "only": ["gulpfile.babel.js"],
+    "retainLines": true,
+    "ignore": []
+}
