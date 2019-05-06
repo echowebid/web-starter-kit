@@ -5,13 +5,13 @@
         "autoprefixer": "^9.5.0",
         "babel-preset-env": "^1.7.0",
         "babel-register": "^6.26.0",
-        "browser-sync": "^2.26.3",
+        "browser-sync": "^2.26.5",
         "gulp-css-purge": "^3.0.9",
         "gulp-postcss": "^8.0.0",
         "gulp-sass": "^4.0.2",
         "gulp-size": "^3.0.0",
         "gulp-sourcemaps": "^2.6.5",
-        "node-sass": "^4.11.0",
+        "node-sass": "^4.12.0",
         "postcss-cli": "^6.1.2"
     },
     "engines": {
@@ -25,6 +25,7 @@
         "gulp": "^4.0.0",
         "gulp-concat": "^2.6.1",
         "gulp-file-include": "^2.0.1",
-        "gulp-if": "^2.0.2"
+        "gulp-if": "^2.0.2",
+        "tar": "^4.4.8"
     }
 }
