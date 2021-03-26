@@ -28,7 +28,7 @@
         "gulp-concat": "^2.6.1",
         "gulp-file-include": "^2.0.1",
         "gulp-if": "^3.0.0",
-        "is-my-json-valid": "^2.20.0",
+        "is-my-json-valid": "^2.17.2",
         "macaddress": "^0.5.1",
         "tar": "^6.1.0"
     }
